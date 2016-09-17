@@ -1,0 +1,7 @@
+maxPosition : [5,5]
+question1:
+  originalPosition : [1,2,'N']
+  instruction :  LMLMLMLMM
+question2:
+  originalPosition : [3,3,'E']
+  instruction :  MMRMMRMRRM
